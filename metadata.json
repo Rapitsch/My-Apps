@@ -1,0 +1,6 @@
+{
+  "name": "Resonator",
+  "description": "Decode cryptic messages hidden in environmental acoustic patterns into evolving 3D architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
